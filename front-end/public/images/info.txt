@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Fanwood Text
+font link: https://fonts.google.com/specimen/Fanwood+Text
+font author: Barry Schwartz
+font author site: http://crudfactory.com/
+
+
+icon designer: jonata hangga
+icon designer link: /stan82ly
+        
+{"bg":"#F6E6F0","icon-gradient-0":"#B4373D","icon-gradient-1":"#B23ACB","font":"#341028","slogan":"#48243c"}
+      

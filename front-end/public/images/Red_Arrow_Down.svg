@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.0"
+   width="700"
+   height="700"
+   id="svg69"
+   sodipodi:docname="Red_Arrow_Down.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs73" />
+  <sodipodi:namedview
+     id="namedview71"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="1.1957143"
+     inkscape:cx="350"
+     inkscape:cy="349.58184"
+     inkscape:window-width="2560"
+     inkscape:window-height="1403"
+     inkscape:window-x="1080"
+     inkscape:window-y="1080"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg69" />
+  <path
+     style="fill:#ff0000;stroke-width:0.83632"
+     d="m 700.09292,1.3003857 c 0,0.92931 -275.81963,551.7648843 -325.50657,650.0646743 -13.47138,26.65157 -24.89703,48.5827 -25.39032,48.73584 C 347.79462,700.53597 -1.5815998,1.7347157 -0.50228981,0.65540571 0.22842019,-0.07530429 46.54843,19.741106 254.01618,109.54229 l 95.44058,41.3109 67.64186,-29.32963 C 454.30164,105.39227 525.00929,74.771376 574.22673,53.477106 707.94144,-4.3754743 700.09292,-1.1219343 700.09292,1.3003857 Z"
+     id="path307" />
+</svg>
